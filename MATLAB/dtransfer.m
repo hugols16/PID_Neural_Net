@@ -1,0 +1,1 @@
+function val = dtransfer (x, past, ts)  val = (x - past)/ts;endfunction
